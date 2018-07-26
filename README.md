@@ -28,7 +28,7 @@ Write-Host "Failed to create the mailbox as we got the above error"
 }
 Else {
 Write-host "Mailbox has been created Successfully"
-Set-RemoteMailbox -Identity $name -CustomAttribute2 "Unit4"
+Set-RemoteMailbox -Identity $name -CustomAttribute2 "arjit"
 }
 
 
