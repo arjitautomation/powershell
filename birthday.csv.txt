@@ -1,0 +1,3 @@
+Name;Birthday_m;Birthday_d
+Aleksei Dmitrijev;12;8
+Anton Dmitrijev;1;1
